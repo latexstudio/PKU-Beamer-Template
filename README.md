@@ -1,6 +1,6 @@
 # PKU-Beamer-Template
 
-
+简介美观的北大 Beamer 模板
 
 ## 简介
 
