@@ -17,8 +17,4 @@
 
 ![](https://cdn.jsdelivr.net/gh/synthpop123/imagebed/img/20210514153632.jpg)
 
-![](https://cdn.jsdelivr.net/gh/synthpop123/imagebed/img/20210514153719.jpg)
-
 ![](https://cdn.jsdelivr.net/gh/synthpop123/imagebed/img/20210514153724.jpg)
-
-![](https://cdn.jsdelivr.net/gh/synthpop123/imagebed/img/20210514153731.jpg)
