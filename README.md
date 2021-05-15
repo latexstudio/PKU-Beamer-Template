@@ -9,7 +9,7 @@
 ## 使用方法
 
 * 使用 LaTeX 在线编辑器 Overleaf：
-  1. 打开本项目地址，选择 `Open as Template`，进入工作目录；
+  1. 打开本项目地址（暂未发布），选择 `Open as Template`，进入工作目录；
   2. 在工作目录内选择“菜单”，确保编译器选用 XeLaTeX 即可。
 * 在本地使用 TexStudio、VS Code 等来进行编辑编译：[将整个项目以压缩包的形式 Download 下来](https://github.com/synthpop123/PKU-Beamer-Template/archive/refs/heads/main.zip) 或直接克隆到本地即可。
 
